@@ -1,0 +1,44 @@
+.logo{
+    width: 260px;
+    height: 260px;
+}
+font{
+    color: teal;
+}
+main{
+    width: 500px;
+    height: 242px;
+    background-color: rgb(255, 255, 255);
+    border: groove;
+    color: rgb(100, 100, 100);
+    margin-top: 10px;
+}
+form{
+    margin-top: 30px;
+}
+.login{
+    margin-left: 27px;
+}
+p{
+    margin-top: 130px;
+    color: rgb(100, 100, 100);
+    font-size: 15px;
+}
+.pass{
+    margin-top: 5px
+}
+button{
+    margin-top: 5px
+}
+.pic{
+    width: 502px;
+    margin-top: 20px;
+}
+.powered{
+    font-size: 9px;
+    color: rgb(100, 100, 100);
+    margin-top: 5px;
+}
+.welcome{
+    margin-top: 10px;
+}
